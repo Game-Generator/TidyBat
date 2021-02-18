@@ -1,2 +1,2 @@
 # TidyBat
-Tidy Up with Batch files (Windows)
+Tidy Up your Windows PC with Batch files
