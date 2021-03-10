@@ -2,11 +2,11 @@
 Tidy Up your Windows PC with batch files
 
 ## Description
-TidyBat offers a few Standalone batch fiels which will help to maintain your computer and delete probably unnecessary data.
-Be always aware that these are destructive actions.
+TidyBat offers a few standalone batch files which will help to maintain your computer and delete probably unnecessary data.
+Be always aware that these are destructive actions. You can combine the Clean actions over a "Start"-batch file.
 
 ### Clean functions
-Currently there are available batch files to clean:
+Currently there are available batch files to clean...
 
 #### DNS Cache:
 Cache for already resolved IPs. Makes the acces to the source faster, because no more resolving necessary, but can hold old data and might be a security risk for malicouse modifications.
