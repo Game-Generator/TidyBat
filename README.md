@@ -1,3 +1,4 @@
+![alt text](https://raw.githubusercontent.com/Game-Generator/TidyBat/main/RepoImage.png)
 # TidyBat
 Tidy Up your Windows PC with batch files
 
