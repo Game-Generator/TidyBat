@@ -18,6 +18,10 @@ Best time for clearing is before a restart or shutdown of the PC if you have not
 #### RecycleBin:
 Normal deleted files or folders land here. Shows the delete actions done to have the possibility to bring the data back.
 
+## How To use
+You can start the Start file if you want to execute every script in the batch fiels folder. The folder has to be at the same place like the start file.
+If you want to clean a special thing, you can also only excecute the batch file with the function out of the BatchFile Folder.
+
 ## License
 The scripts and documentation texts in this project are released under the [MIT License](https://github.com/Game-Generator/TidyBat/blob/main/LICENSE "MIT License").
 Not licensed under MIT license are pictures used for this project.
