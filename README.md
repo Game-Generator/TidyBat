@@ -20,8 +20,17 @@ Best time for clearing is before a restart or shutdown of the PC if you have not
 Normal deleted files or folders land here. Shows the delete actions done to have the possibility to bring the data back.
 
 ## How To use
-You can start the Start file if you want to execute every script in the batch fiels folder. The folder has to be at the same place like the start file.
-If you want to clean a special thing, you can also only excecute the batch file with the function out of the BatchFile Folder.
+If you want to clean a special thing, you can excecute the batch file with the function out of the BatchFile Folder.
+
+### TidyBat
+If you want to execute every script in the batch files folder use the StartTidyBat.bat. The folder (BatchFiles) has to be at the same place like the start file.
+
+### CleanManager
+Alternatively or additional you can also use the ExecuteCleanManager script to execute the disk cleanmanager with its default settings for low disk space.
+Read more about it here https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cleanmgr.
+
+## Additional Tools
+In the repair folder is a script to use the sfc tool to check the correctness of your windows installation. If files are corrupted it can eventuelly repair them. That can solve some issues with windows eg Windows UI not coming up from time to time.
 
 ## License
 The scripts and documentation texts in this project are released under the [MIT License](https://github.com/Game-Generator/TidyBat/blob/main/LICENSE "MIT License").
