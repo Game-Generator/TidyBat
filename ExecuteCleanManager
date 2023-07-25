@@ -1,0 +1,5 @@
+@echo off
+rem Starts and directly executes the cleanmanager tool with all standard options
+rem mainly cleans temporary files, some caches and logging files on main drive
+rem https://learn.microsoft.com/de-de/windows-server/administration/windows-commands/cleanmgr
+cleanmgr /verylowdisk
